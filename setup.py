@@ -41,7 +41,7 @@ setup(name='audit-AI',
             'pandas',
             'matplotlib',
             'statsmodels',
-            'sklearn'
+            'scikit-learn'
       ],
       tests_require=['pytest-cov'],
       extras_require={
